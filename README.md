@@ -6,21 +6,20 @@ This project aims to develop a Data Analysis tool for analyzing the overall sale
 The Report consists of three pages:
 
 A report page
+
 AI Narrative Page
 
 
 ## PROBLEM STATEMENT
-- To  present revenue bu countries
+- To  present revenue by countries
   
-- To identify top 3 cars sold
+- To identify the top 3 cars sold
 
-- Compare Revenue and pPofit between the Brands
+- Compare Revenue and Pofit between the Brands
   
 - Show Revenue and Sales by City and Dealer
 
 ## SKILLS DEMONSTRATED
-
-**DAX** - Five measures were created using Dax 
 
 **AI Narrative integration** 
 
