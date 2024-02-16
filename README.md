@@ -23,9 +23,12 @@ AI Narrative Page
 
 **AI Narrative integration** 
 
+![](Narrative_Page_1.png)
+
+![](Narrative_Page_2.png)
 
 
-![](Measures_LD.png)
+![](Narrative_Tile.png)
 ## DATA SOURCING
 The Data was extracted from the Kaggle data set
 ## DATA TRANSFORMATION
