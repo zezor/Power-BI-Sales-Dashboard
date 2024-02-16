@@ -46,21 +46,30 @@ The invoice table is marked as the fact table with the Carrier and ClientBase ta
 ![](Model_LD.png)
 
 ## ANALYSIS AND VISUALIZATION
-### Overall OTIF
+### KPI 
 The main KPI focused on in this analysis is the OTIF. On-time in full (OTIF) is a supply chain metric for measuring performance in the logistics
  industry. OTIF generally refers to a supplier's ability to deliver product within prescribed delivery windows and at full quantities ordered.
 From the tile below, the business under consideration had an OTIF of 61.07%. This will be compared with the targeted OTIF KPI to determine if the business is doing well.
 
-![](OTIF_LD.png)
+![](KPI.png)
 
 The tile from the diagram below shows the OTIF performance for the clients (Top Five). 
 Management would have to investigate these clients to understand the factors contributing to their low performance.
 
-### OTIF By Top Clients
+### Revenue by Country
 Individual OTIF for various carriers was calculated. From the chart below, Delivery Express has the highest OTIF of 65.91%.
-![](OTIF_by_clients.png)
+![](Revenue_byCountry.png)
+
+
+### Revenue by Brand
+![](Revenue_by_brand.png)
+
+### Quantity Sold by Brand
+![](Quantity_sold_by_brand.png)
+
+
 
 ## CONCLUSION AND RECOMMENDATION
-![](Report_LD.png)
+![](Report_SD.png)
 
 
