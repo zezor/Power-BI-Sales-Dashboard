@@ -25,6 +25,7 @@ AI Narrative Page
 
 ## DATA SOURCING
 The Data was extracted from the Kaggle data set
+The primary data source used for this analysis is the sales data containing detailed data about each sales by the compan
 ## DATA TRANSFORMATION
 Data cleaning and transformation were carried out using Power Query. After scrutinizing all the columns, they were found valid and devoid of empty cells and errors. To calculate the deliveries on time and not on time we needed to know the delivery date and expected delivery date 
 
