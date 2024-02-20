@@ -79,3 +79,7 @@ Individual OTIF for various carriers was calculated. From the chart below, Deliv
 ![](Report_SD.png)
 
 
+Click the link below to have live interactions with the report on Power BI Service
+
+<https://app.powerbi.com/links/V4IW1RJBp2?ctid=42f54956-ca72-48cd-82ca-3f93df64a015&pbi_source=linkShare>
+
