@@ -49,6 +49,7 @@ The total revenue for the period under review is USD 18.23 Million.
 
 ### Revenue by Country
 The diagram below shows the revenue by country. Botswana experienced higher revenue as compared to South Africa with 67.89%.
+
 ![](Revenue_byCountry.png)
 
 
