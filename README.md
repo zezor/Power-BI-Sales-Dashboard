@@ -25,13 +25,10 @@ AI Narrative Page
 
 ## DATA SOURCING
 The Data was extracted from the Kaggle data set
-The primary data source used for this analysis is the sales data containing detailed data about each sales by the compan
+The primary data source used for this analysis is the sales data containing detailed data about sales by the company.
+
 ## DATA TRANSFORMATION
-Data cleaning and transformation were carried out using Power Query. After scrutinizing all the columns, they were found valid and devoid of empty cells and errors. To calculate the deliveries on time and not on time we needed to know the delivery date and expected delivery date 
-
-Therefore, I created a new column to extract the Expected Delivery Date by combining the Collection Date and Contracted Term
-
-A second column was also extracted from the Delivery Date and Expected Delivery Date to know Late or Not Late deliveries 
+Data cleaning and transformation were carried out using Power Query. After scrutinizing all the columns, they were found valid and devoid of empty cells and errors.
 
 
 ![image](https://github.com/zezor/Power-BI-Logistics-Dashboard/assets/39943217/d664b2e2-99ce-4c82-b222-ee34e6acbfa8)
@@ -45,17 +42,13 @@ The invoice table is marked as the fact table with the Carrier and ClientBase ta
 
 ## ANALYSIS AND VISUALIZATION
 ### KPI 
-The main KPI focused on in this analysis is the OTIF. On-time in full (OTIF) is a supply chain metric for measuring performance in the logistics
- industry. OTIF generally refers to a supplier's ability to deliver product within prescribed delivery windows and at full quantities ordered.
-From the tile below, the business under consideration had an OTIF of 61.07%. This will be compared with the targeted OTIF KPI to determine if the business is doing well.
-
+The KPIs focused on in this analysis are revenue, profit, brand count, model count and quantity sold.
+The total revenue for the period under review is USD 18.23 Million.
 ![](KPI.png)
 
-The tile from the diagram below shows the OTIF performance for the clients (Top Five). 
-Management would have to investigate these clients to understand the factors contributing to their low performance.
 
 ### Revenue by Country
-Individual OTIF for various carriers was calculated. From the chart below, Delivery Express has the highest OTIF of 65.91%.
+The diagram below shows the revenue by country. Botswana experienced higher revenue as compared to South Africa with 67.89%.
 ![](Revenue_byCountry.png)
 
 
@@ -79,7 +72,7 @@ Individual OTIF for various carriers was calculated. From the chart below, Deliv
 ![](Report_SD.png)
 
 
-Click the link below to have live interactions with the report on Power BI Service
+Click the link below to have live interactions with the report on the Power BI Service
 
 <https://app.powerbi.com/links/V4IW1RJBp2?ctid=42f54956-ca72-48cd-82ca-3f93df64a015&pbi_source=linkShare>
 
